@@ -1,4 +1,3 @@
-# rodney-profile
 # 👋 Hi, I'm Rodney — Calm Engineer
 
 AI & Data/Automation Consultant in training.  
